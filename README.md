@@ -1,6 +1,6 @@
 # Django projects
 As well I have uploaded them on free hosting service, called "Heroku". 
-Most probably links will work fine, they are not broken - just loading slowly.
+Most probably links will work fine, they're not broken - just loading slowly.
 
 Blog - https://myblogmy.herokuapp.com/
 
